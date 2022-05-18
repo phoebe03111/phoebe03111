@@ -5,7 +5,7 @@
 - 👩‍💻 A Full-Stack Developer
 - 💼 Currently working as a Teaching Assistant at BrainStation Web Development bootcamp
 - 🙌 Looking for opportunities to grow and become a better developer!
-- 📪 phoebe03111@gmail.com
+- 📪 How to reach me: phoebe03111@gmail.com (or find my links for portfolio and linkedin below)
 
 ### My skillset
 ![Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,mysql,git,figma)
