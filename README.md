@@ -1,6 +1,6 @@
 
 
-### Hi there! I'm Phoebe! 
+### Hi there! I'm Phoebe
 
 - 👩‍💻 A Full-Stack Developer
 - 💼 Currently working as a Teaching Assistant at BrainStation Web Development bootcamp
