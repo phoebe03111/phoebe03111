@@ -1,10 +1,9 @@
 
 
-### Hi there! I'm Phoebe
+### Hi I'm Phoebe
 
-- 👩‍💻 A Full-Stack Developer
-- 💼 Currently working as a Teaching Assistant at BrainStation Web Development bootcamp
-- 🙌 Looking for opportunities to grow and become a better developer!
+- 👩‍💻 A Full-Stack Developer based in Vancouver
+- 💼 Currently work for [Fickl App](https://www.ficklmarketing.com/)
 - 📪 How to reach me: phoebe03111@gmail.com (or find my links for portfolio and linkedin below)
 
 ### My skillset
