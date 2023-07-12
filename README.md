@@ -7,7 +7,7 @@
 - 📪 How to reach me: phoebe03111@gmail.com (or find my links for portfolio and linkedin below)
 
 ### My skillset
-![Skills](https://skillicons.dev/icons?i=react,redux,html,css,sass,js,nodejs,express,mysql,git,firebase)
+![Skills](https://skillicons.dev/icons?i=react,next,redux,html,css,tailwind,sass,js,nodejs,express,mysql,git,firebase)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://phoebechang.dev)
