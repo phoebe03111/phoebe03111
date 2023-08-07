@@ -14,4 +14,16 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phoebe--chang/)
 
+## Demo projects
+
+📚 BookSelf
+
+https://github.com/phoebe03111/bookself-v2
+
+
+
+🔗 The One With The Array Methods
+
+https://github.com/phoebe03111/the-one-with-array-methods
+
 
