@@ -4,7 +4,7 @@
 
 - 👩‍💻 A Full-Stack Developer based in Vancouver
 - 💼 Currently work for [Fickl App](https://www.ficklmarketing.com/)
-- 📪 How to reach me: phoebe03111@gmail.com (or find my links for portfolio and linkedin below)
+- 📪 How to reach me: phoebe03111@gmail.com (or Linkedin below)
 
 ### My skillset
 ![Skills](https://skillicons.dev/icons?i=react,next,redux,html,css,tailwind,sass,js,nodejs,express,mysql,git,firebase)
