@@ -16,16 +16,14 @@
 
 ## Demo projects
 
+💅 Enchanted Scents
+
+https://github.com/phoebe03111/enchanted
+
+
 💐 Bloom Express
 
 https://github.com/phoebe03111/Bloom-Express
-
-
-
-📚 BookSelf
-
-https://github.com/phoebe03111/bookself-v2
-
 
 
 🔗 The One With The Array Methods
