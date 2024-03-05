@@ -25,6 +25,10 @@ https://github.com/phoebe03111/enchanted
 
 https://github.com/phoebe03111/Bloom-Express
 
+📚 BookSelf
+
+https://github.com/phoebe03111/bookself-v2
+
 
 🔗 The One With The Array Methods
 
